@@ -12,5 +12,7 @@
         <a href="index.php">Home</a> |
         <a href="candy.php">Candy</a> |
         <a href="about.php">About</a> |
+        <a href="stock.php">Stock</a> |
         <a href="contact.php">Contact</a>
     </nav>
+    <main>
