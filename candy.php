@@ -84,6 +84,6 @@ switch ($day) {
         echo "<p>Merry Christmas!</p>";
     }
     ?>
-    <p class="last"><a class="button" href="contact.php">Order Now</a></p>
+    <p><a class="button" href="contact.php">Order Now</a></p>
 
 <?php include_once 'includes/footer.php'; ?>
